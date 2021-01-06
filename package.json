@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.9.10",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "d3-geo": "1.11.9",
     "react": "16.8.6",
     "react-dom": "16.8.6",
